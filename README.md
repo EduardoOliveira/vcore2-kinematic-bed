@@ -25,7 +25,7 @@ This project implements a kinematic bed solution for the RatRig vCore2, it desig
     - Provided by RatRig, no link at the moment but the 3d model is [here](./assets/magnet.stl)
 - 1x `X motion length` + 160mm 2020 aluminum extrusion
     - One of the four original Z rails can be cut to length
-
+- 1x `Z motion length` + 50mm leadscrew
 
 # Modifications
 
@@ -44,7 +44,7 @@ This project implements a kinematic bed solution for the RatRig vCore2, it desig
 
 # Assembly photos
 
-There is an [Album](https://photos.google.com/album/AF1QipPb8UzY6MsozT46tPPoFIl3qnk6D_y54e8xmwLS) with some assembly pictures, not the best o more descriptive
+There is an [Album](https://photos.app.goo.gl/KMQwSCDqYotiuCHU9) with some assembly pictures, not the best or more descriptive
 
 # Sources
 
