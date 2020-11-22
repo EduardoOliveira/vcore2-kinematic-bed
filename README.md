@@ -23,7 +23,7 @@ This project implements a kinematic bed solution for the RatRig vCore2, it desig
     - [Tested with](https://www.ratrig.com/dowel-pin-3-0mm-x-40-0mm.html)
 - 3x 10mm x 20mm x 4.8mm magnets with 2 4mm holes
     - Provided by RatRig, no link at the moment but the 3d model is [here](./assets/magnet.stl)
-- 1x `Z motion length` + 160mm 2020 aluminum extrusion
+- 1x `X motion length` + 160mm 2020 aluminum extrusion
     - One of the four original Z rails can be cut to length
 
 
@@ -32,7 +32,7 @@ This project implements a kinematic bed solution for the RatRig vCore2, it desig
 - A 3rd hole was done in the bed plate to interface with the center rail in the back
 - All the bed plate holes were chamfered to embed the countersunk screws
     - This step is not mandatory if you don't use a full glass bed
-- One of the original vertical Z rail extrusion was cut to length (`Z motion length` + 160mm)
+- One of the original vertical Z rail extrusion was cut to length (`X motion length` + 160mm)
 
 # Printed parts
 
