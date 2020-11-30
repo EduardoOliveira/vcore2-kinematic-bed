@@ -4,6 +4,10 @@ This project implements a kinematic bed solution for the RatRig vCore2, it desig
 
 ![alt text](./assets/assembly.png "Logo Title Text 1")
 
+# DISCLAIMER
+
+This is a work in progress. Please contact me before you start assembling the project, either open an issue or find me at [RatRig Community (unofficial) discord @EOliveira](https://discord.gg/zfNNre5zjE) @EOliveira
+
 # Variants
 
 - [MGN12H](./stl/mgn12h) - Tested
